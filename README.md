@@ -1,3 +1,47 @@
+
+
+欢迎来到GitHub页面
+
+您可以使用[editor on GitHub](https://github.com/songsoficeandfire/songsoficeandfire/github.io/edit/master/readme .md)在Markdown文件中维护和预览网站的内容。
+
+每当您提交到这个存储库时，GitHub页面将运行[Jekyll](https://jekyllrb.com/)，从标记文件中的内容重新构建站点中的页面。
+
+# # #减价
+
+Markdown是一种轻量级的、易于使用的语法，用于设计您的写作风格。它包括
+
+”“减价
+语法高亮代码块
+
+#标题1
+# #标题2
+# # #标题3
+
+——项目符号
+——列表
+
+1. 编号
+2. 列表
+
+**粗体**和_Italic_以及“Code”文本
+
+[链接](url)和![图片](src)
+```
+
+有关详细信息，请参见[GitHub调味Markdown](https://guides.github.com/features/mastering-markdown/)。
+
+# # #哲基尔的主题
+
+您的页面站点将使用您在[repository settings]中选择的Jekyll主题的布局和样式(https://github.com/SongsOfIceAndFire/SongsOfIceAndFire.github.io/settings)。这个主题的名称保存在Jekyll ' _config中。yml的配置文件。
+
+###支持或联系
+
+页面有问题?查看我们的[文档](https://help.github.com/categories ories/github-pages-basics/)或[联系支持](https://github.com/contact)，我们将帮助您整理。
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/SongsOfIceAndFire/SongsOfIceAndFire.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
